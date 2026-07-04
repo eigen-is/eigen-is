@@ -14,6 +14,7 @@ self-hosters and small teams comfortable with rough edges, it is ready to try.
 **[Code](https://github.com/eigen-is/eigen)** ·
 **[eigen.is](https://eigen.is)** ·
 **[How this started](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)** ·
-**[Sponsor](https://github.com/sponsors/eigen-is)**
+**[Sponsor](https://github.com/sponsors/eigen-is)** ·
+**[open collective](https://opencollective.com/eigen))**
 
 Questions or ideas? [reinder@eigen.is](mailto:reinder@eigen.is)
