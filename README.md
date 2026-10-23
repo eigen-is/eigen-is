@@ -1,7 +1,8 @@
 # Eigen
 
-Eigen is a self-hosted alternative to Google Workspace. Mail, drive, docs, sheets, slides,
-calendar, contacts and chat, in one open source (MIT) server.
+A self-hosted, open source alternative to Google Workspace: mail, drive, docs, sheets, slides, drawings, stickies, calendar, contacts and chat. 
+
+It works with your own apps over standard protocols and opens and saves Word, Excel and PowerPoint files.
 
 The name is Dutch and German for "own". You own your data because of how it is stored: mail in
 plain Maildir++ that Dovecot can read, files as normal files over WebDAV, calendars over CalDAV,
