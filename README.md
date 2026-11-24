@@ -2,7 +2,7 @@
 
 A self-hosted alternative to Google Workspace.
 
-Mail, drive, docs, sheets, slides, drawings, stickies, calendar, contacts and chat. Syncs with your own apps over IMAP, SMTP, CalDAV, CardDAV and WebDAV. Opens and saves Word, Excel and PowerPoint files.
+Mail, drive, docs, sheets, slides, vector, stickies, calendar, contacts and chat. Syncs with your own apps over IMAP, SMTP, CalDAV, CardDAV and WebDAV. Opens and saves Word, Excel and PowerPoint files.
 
 The name is Dutch and German for "own". Eigen runs on your own hardware, and the code is MIT licensed. Your mail, contacts and calendars stay in open formats.
 
